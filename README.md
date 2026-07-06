@@ -109,6 +109,8 @@ Zimmerman Workbench includes a built-in IOC Extraction engine capable of identif
 
 Extracted indicators can be searched, filtered, correlated, and exported for further investigation and threat hunting workflows.
 
+---
+
 ### Correlation Engine
 
 The platform correlates evidence across multiple artifacts to help identify suspicious activity.
