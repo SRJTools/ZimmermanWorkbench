@@ -146,7 +146,7 @@ Generate investigation reports containing:
 
 ## Installation
 
-1. Download the latest release.
+1. Download the latest **[releases](../../releases/latest)**.
 2. Run the installer:
 
 ```text
