@@ -42,6 +42,73 @@ Supported tools include:
 
 ---
 
+## Screenshots
+
+### Dashboard
+
+The central investigation dashboard provides case statistics, artifact counts, findings summaries, and investigation metrics.
+
+![Dashboard](Dashboard.png)
+
+---
+
+### Analysis
+
+Analyze forensic artifacts through advanced filtering, searching, and investigation workflows.
+
+![Analysis](Analysis.png)
+
+---
+
+### Correlation Engine
+
+Correlate evidence across multiple forensic artifacts to identify suspicious activity and investigative leads.
+
+![Correlation](Correlation.png)
+
+---
+
+### Findings
+
+Review automatically generated findings from correlation rules, Sigma detections, and forensic analysis.
+
+![Findings](Findings.png)
+
+---
+
+### Investigation Graph
+
+Visualize relationships between users, processes, files, registry entries, and forensic evidence.
+
+![Graph](Graph.png)
+
+---
+
+### Unified Timeline
+
+Reconstruct system activity and attack chains using a unified timeline built from multiple forensic artifacts.
+
+![Timeline](TimeLine.png)
+
+---
+
+## IOC Extraction
+
+Zimmerman Workbench includes a built-in IOC Extraction engine capable of identifying and extracting:
+
+- IPv4 and IPv6 addresses
+- Domains
+- URLs
+- Email addresses
+- MD5 hashes
+- SHA1 hashes
+- SHA256 hashes
+- Hostnames
+- Usernames
+- File paths
+
+Extracted indicators can be searched, filtered, correlated, and exported for further investigation and threat hunting workflows.
+
 ### Correlation Engine
 
 The platform correlates evidence across multiple artifacts to help identify suspicious activity.
