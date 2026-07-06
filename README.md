@@ -48,7 +48,7 @@ Supported tools include:
 
 The central investigation dashboard provides case statistics, artifact counts, findings summaries, and investigation metrics.
 
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
@@ -56,7 +56,7 @@ The central investigation dashboard provides case statistics, artifact counts, f
 
 Analyze forensic artifacts through advanced filtering, searching, and investigation workflows.
 
-![Analysis](Analysis.png)
+![Analysis](Screenshots/Analysis.png)
 
 ---
 
@@ -64,7 +64,7 @@ Analyze forensic artifacts through advanced filtering, searching, and investigat
 
 Correlate evidence across multiple forensic artifacts to identify suspicious activity and investigative leads.
 
-![Correlation](Correlation.png)
+![Correlation](Screenshots/Correlation.png)
 
 ---
 
@@ -72,7 +72,7 @@ Correlate evidence across multiple forensic artifacts to identify suspicious act
 
 Review automatically generated findings from correlation rules, Sigma detections, and forensic analysis.
 
-![Findings](Findings.png)
+![Findings](Screenshots/Findings.png)
 
 ---
 
@@ -80,7 +80,7 @@ Review automatically generated findings from correlation rules, Sigma detections
 
 Visualize relationships between users, processes, files, registry entries, and forensic evidence.
 
-![Graph](Graph.png)
+![Graph](Screenshots/Graph.png)
 
 ---
 
@@ -88,13 +88,13 @@ Visualize relationships between users, processes, files, registry entries, and f
 
 Reconstruct system activity and attack chains using a unified timeline built from multiple forensic artifacts.
 
-![Timeline](TimeLine.png)
+![Timeline](Screenshots/TimeLine.png)
 
 ---
 
 ## IOC Extraction
 
-Zimmerman Workbench includes a built-in IOC Extraction engine capable of identifying and extracting:
+Zimmerman Workbench includes a built-in IOC Extraction engine capable of identifying and extracting indicators from forensic artifacts, including:
 
 - IPv4 and IPv6 addresses
 - Domains
@@ -107,7 +107,7 @@ Zimmerman Workbench includes a built-in IOC Extraction engine capable of identif
 - Usernames
 - File paths
 
-Extracted indicators can be searched, filtered, correlated, and exported for further investigation and threat hunting workflows.
+Extracted indicators can be searched, filtered, correlated, and exported to support threat hunting and incident response investigations.
 
 ---
 
